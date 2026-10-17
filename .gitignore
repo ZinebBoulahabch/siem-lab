@@ -1,0 +1,4 @@
+mots_de_passe.txt
+*.iso
+*.vmdk
+.env
