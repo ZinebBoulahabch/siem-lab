@@ -104,4 +104,4 @@ Wazuh · Suricata · pfSense · Sysmon · auditd · Sigma · YARA · MISP · The
 
 ## License
 
-MIT (add a `LICENSE` file when you create the repository, or choose it in the GitHub creation form).
+[MIT](LICENSE)
