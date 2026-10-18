@@ -72,6 +72,7 @@ This document details the network topology, IP addressing plan, virtual network 
                             │   PC Hôte (Admin)    │
                             │    (10.10.20.254)    │
                             └──────────────────────┘
+---
 
 ## 4. Logical Data & Detection Flow
 
