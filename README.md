@@ -61,7 +61,7 @@ siem-lab/
 | Resource | Minimum | Notes |
 | --- | --- | --- |
 | RAM | 24 GB | About 19 GB for the running VMs, the rest for the host |
-| Storage | 300 GB free SSD | VM disks are thin-provisioned (about 385 GB allocated at most) |
+| Storage | 150 GB free SSD minimum, 250 GB recommended | VM disks are thin-provisioned: real usage is about 150 to 250 GB (about 385 GB allocated at most) |
 | CPU | 4 cores or more | Virtualization (VT-x / AMD-V) enabled in the BIOS |
 | Hypervisor | VMware Workstation Pro | Free for personal use |
 
@@ -104,4 +104,4 @@ Wazuh · Suricata · pfSense · Sysmon · auditd · Sigma · YARA · MISP · The
 
 ## License
 
-[MIT](LICENSE)
+MIT (add a `LICENSE` file when you create the repository, or choose it in the GitHub creation form).
