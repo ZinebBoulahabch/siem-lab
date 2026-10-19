@@ -14,7 +14,7 @@ Conventions: dates in `YYYY-MM-DD`, times in UTC, snapshot names in lowercase (`
 
 | Item | Value |
 | --- | --- |
-| Host RAM / free SSD | 24 GB / 300 GB or more free |
+| Host RAM / free SSD | 24 GB / 150 GB free minimum (250 GB recommended) |
 | Virtualization (VT-x / AMD-V) | Enabled in the BIOS |
 | Hypervisor | VMware Workstation Pro 25.x |
 | VM storage folder | `C:\Lab` |
