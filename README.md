@@ -105,6 +105,3 @@ Wazuh · Suricata · pfSense · Sysmon · auditd · Sigma · YARA · MISP · The
 ## License
 
 [MIT](LICENSE)
-
-
-  نسخ النص
